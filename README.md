@@ -6,8 +6,8 @@ I am a self-taught developer who enjoys creating things that exist on the intern
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnn2003&theme=discord" alt="mnn2003" /></a> </p>
 
-- 🔭 I’m currently working on [Quantum Matlab Hub](https://github.com/mnn2003/Quantum-Matlab-Hub)
--  I’m looking to collaborate on [Spotify Trends 2023 Analysis](https://github.com/mnn2003/Spotify_Trends_2023_Analysis)
+<--- 🔭 I’m currently working on [Quantum Matlab Hub](https://github.com/mnn2003/Quantum-Matlab-Hub)
+-  I’m looking to collaborate on [Spotify Trends 2023 Analysis](https://github.com/mnn2003/Spotify_Trends_2023_Analysis)-->
 - 🤝 I’m looking for help with [Plant Health Monitoring](https://github.com/mnn2003/Plant-Health-Monitoring)
 - 🌱 I’m currently learning **Data science, machine learning, and artificial intelligence are my current areas of focus.**
 - 💬 Ask me about **Feel free to ask me about anything related to Tensorflow, YOLO, OpenCV, data science, machine learning, Computer Vision, or artificial intelligence.**
